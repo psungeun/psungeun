@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hello, I'm Sungeun Park!
 
-<!--
-**psungeun/psungeun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **M.S. Student in Biosystems Engineering @ Wageningen University & Research (WUR)**
 
-Here are some ideas to get you started:
+I am passionate about integrating agriculture with data science to solve real-world problems in biosystems engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Interests
+* **Languages:** Python
+* **Interests:** Agricultural Data Analysis, Precision Agriculture, Smart Farming
+
+### 📫 How to reach me
+* **Email:** sungeuncelina@gmail.com
+* **LinkedIn:** https://www.linkedin.com/in/sungeunpark/
